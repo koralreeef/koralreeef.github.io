@@ -1,2 +1,2 @@
-# koralreeef.github.io
-website
+# KORAL REEF
+mainly a repository for CSC196W
