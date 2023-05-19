@@ -1,9 +1,14 @@
+function alerts(){
+    alert("Fancy or Lame or Bigger!");
+}
+
 function bigger() {
-    alert("Hello, world!");
+    alerts();
     document.getElementById("InputText-1").style.fontSize = "24pt";
 }
 
 function moo() {
+    alerts();
     const text = document.getElementById("InputText-1").value.toUpperCase();
     const textArray = text.split(".");
     for(let i = 0; i < textArray.length - 1; i++)
@@ -16,14 +21,14 @@ function moo() {
 }
 
 function fancy() {
-    alert("We're fancy!");
+    alerts();
     document.getElementById("InputText-1").style.fontWeight = "bold";
     document.getElementById("InputText-1").style.color = "blue";
     document.getElementById("InputText-1").style.textDecoration = "underline";
 }
 
 function lame() {
-    alert("Not anymore..");
+    alerts();
     document.getElementById("InputText-1").style.fontWeight = "normal";
     document.getElementById("InputText-1").style.color = "black";
     document.getElementById("InputText-1").style.textDecoration = "none";
