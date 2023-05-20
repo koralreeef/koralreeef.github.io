@@ -31,10 +31,10 @@ function showImage() {
     console.log(window.localStorage.getItem("src"));
     image.src = window.localStorage.getItem("src");
     image.alt = window.localStorage.getItem("alt");
-    if(window.localStorage.length = null)
+    if(window.localStorage.getItem("src") === null)
     {
         console.log(window.localStorage.getItem("src"));
-        alt.innerHTML = "this text changes as you change the art!";
+        alt.innerHTML = "hi! this text changes as you change the art!";
         image.src = "https://pbs.twimg.com/media/FrqvohpaMAIvVA7?format=png&name=small";
     }
 }
