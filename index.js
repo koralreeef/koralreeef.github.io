@@ -4,22 +4,22 @@ window.onload = function() {
 };
 
 function oneSwitch(){
-    setImage("https://pbs.twimg.com/media/FrqvohpaMAIvVA7?format=png&name=small", "miao miao!");
+    setImage("https://pbs.twimg.com/media/FrqvohpaMAIvVA7?format=png&name=small", "3/20/23 miao miao!");
     showImage();
 }
 
 function twoSwitch(){
-    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1093463171219587072/452023.png", "da sink");
+    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1093463171219587072/452023.png", "4/6/23 da sink");
     showImage();
 }
 
 function threeSwitch(){
-    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1092761537233555486/442023.jpg", "this was ok");
+    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1092761537233555486/442023.jpg", "4/4/23 this was ok");
     showImage();
 }
 
 function fourSwitch(){
-    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1097975156686725130/4192023.png", "good pose");
+    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1097975156686725130/4192023.png", "4/18/23 good pose");
     showImage();
 }
 
@@ -34,7 +34,7 @@ function showImage() {
     if(window.localStorage.getItem("src") === null)
     {
         console.log(window.localStorage.getItem("src"));
-        alt.innerHTML = "hi! this text changes as you change the art!";
+        alt.innerHTML = "art gallery below";
         image.src = "https://pbs.twimg.com/media/FrqvohpaMAIvVA7?format=png&name=small";
     }
 }
