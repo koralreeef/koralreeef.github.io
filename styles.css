@@ -44,6 +44,15 @@ button {
     box-sizing: border-box;
   }
   
+  /* this suckz
+  img:hover{
+    transform:scale(1.2);
+    }
+
+  img{
+    transition: transform .2s;
+    }
+  */ 
   body {
     margin: 0;
   }
