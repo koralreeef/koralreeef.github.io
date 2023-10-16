@@ -1,58 +1,13 @@
-
-window.onload = function() {
-    showImage();
-};
-
-function oneSwitch(){
-    setImage("https://pbs.twimg.com/media/FrqvohpaMAIvVA7?format=png&name=small", "3/20/23 miao miao!");
-    showImage();
+img = document.getElementById("img1");
+// Function to set image dimensions
+function enlargeImg() {
+    img.style.width = "60%";
+    img.style.height = "auto";
+    img.style.transition = "width 0.5s ease";
 }
-
-function twoSwitch(){
-    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1093463171219587072/452023.png", "4/6/23 da sink");
-    showImage();
-}
-
-function threeSwitch(){
-    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1092761537233555486/442023.jpg", "4/4/23 this was ok");
-    showImage();
-}
-
-function fourSwitch(){
-    setImage("https://cdn.discordapp.com/attachments/672669652358397965/1097975156686725130/4192023.png", "4/18/23 good pose");
-    showImage();
-}
-
-function showImage() {
-    var image = id('yippie');
-    const alt = id('yi');
-    alt.innerHTML = window.sessionStorage.getItem("alt2");
-    console.log(alt.innerHTML);
-    console.log(window.localStorage.getItem("src"));
-    image.src = window.localStorage.getItem("src");
-    image.alt = window.localStorage.getItem("alt");
-    if(window.localStorage.getItem("src") === null)
-    {
-        console.log(window.localStorage.getItem("src"));
-        alt.innerHTML = "art gallery below";
-        image.src = "https://pbs.twimg.com/media/FrqvohpaMAIvVA7?format=png&name=small";
-    }
-}
-
-function setImage(src, alt, width, height){
-    window.localStorage.setItem("src", src);
-    window.localStorage.setItem("alt", alt);
-    window.sessionStorage.setItem("alt2", alt);
-}
-
-function id(id) {
-    return document.getElementById(id);
-}
-
-function getSrc() {
-    image.src = window.localStorage.getItem("src");
-}
-
-function getAlt() {
-    image.src = window.localStorage.getItem("alt");
+// Function to reset image dimensions
+function resetImg() {
+    img.style.width = "40%";
+    img.style.height = "auto";
+    img.style.transition = "width 0.5s ease";
 }
