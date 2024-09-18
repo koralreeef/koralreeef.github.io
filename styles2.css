@@ -1,0 +1,30 @@
+body {
+    background-color: #101010;
+    color: #ffffff;
+  }
+  h1 {
+    color: #ffffff;
+  }
+  nav a {
+    color: #ffffff;
+  }
+  footer {
+    color: #ffffff;
+  }
+
+  .overflow {
+    scrollbar-width: thin;
+    overflow: auto;
+  }
+  /* Add an active class to the active dropdown button */
+  .active {
+    background-color: rgba(51, 126, 193, 0.933);
+  }
+  
+  /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+  .dropdown-container {
+    display: none;
+    background-color: rgba(51, 117, 175, 0.933);
+  }
+  
+  

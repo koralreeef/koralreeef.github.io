@@ -38,6 +38,16 @@ button {
     left: 50%;
     text-align: center
 }
+
+iframe {
+  border: 1px solid black;
+}
+
+.overflow {
+  scrollbar-width: thin;
+  overflow: auto;
+}
+
 /* GALLERY CSS */
 
 * {
