@@ -1,0 +1,71 @@
+@font-face {
+  font-family: GeistVF;
+    src: url(fonts/GeistVF.woff)
+  }
+
+body {
+    background-color: #101010;
+    color: #ffffff;
+    font-family: GeistVF;
+  }
+  h1 {
+    color: #ffffff;
+  }
+  nav a {
+    color: #ffffff;
+  }
+  footer {
+    color: #ffffff;
+  }
+
+  .still {
+    display: block;
+  }
+
+  .webp {
+    display: none;
+  }
+  
+  .preview {
+    width: 700px;
+    height: 400px;
+  }
+
+  p {
+    font-size: large;
+    text-align: center;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .preview-img {
+    width: 700px;
+    height: 400px;
+  }
+
+  .w3-button {
+    font-size: x-large;
+  }
+
+  .toggle {
+    font-size: large;
+  }
+
+  /* Add an active class to the active dropdown button */
+  .active2 {
+    background-color: rgba(51, 126, 193, 0.933);
+  }
+  
+  /* Add an active class to the active dropdown button */
+  .active1 {
+    background-color: rgba(144, 20, 172, 0.933);
+  }
+  /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+  .dropdown-container {
+    display: none;
+    background-color: rgba(201, 201, 201, 0.933);
+  }
+  
+  

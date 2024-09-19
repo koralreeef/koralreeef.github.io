@@ -43,9 +43,9 @@ iframe {
   border: 1px solid black;
 }
 
-.overflow {
+.still {
   scrollbar-width: thin;
-  overflow: auto;
+  still: auto;
 }
 
 /* GALLERY CSS */
