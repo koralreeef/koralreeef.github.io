@@ -42,6 +42,10 @@ body {
     height: 400px;
   }
 
+  ol {
+    list-style-position: inside;
+  }
+
   .w3-button {
     font-size: x-large;
   }
@@ -51,18 +55,14 @@ body {
   }
 
   /* Add an active class to the active dropdown button */
-  .active2 {
-    background-color: rgba(51, 126, 193, 0.933);
+  .active {
+    background-color: rgba(250, 180, 68, 0.933);
   }
-  
-  /* Add an active class to the active dropdown button */
-  .active1 {
-    background-color: rgba(144, 20, 172, 0.933);
-  }
+
   /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
   .dropdown-container {
     display: none;
-    background-color: rgba(201, 201, 201, 0.933);
+    background-color: rgba(179, 179, 179, 0.499);
   }
   
   
