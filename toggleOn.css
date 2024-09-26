@@ -37,6 +37,12 @@ body {
   }
 
   ol {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+  ul {
+    text-align: center;
     list-style-position: inside;
   }
 
@@ -44,6 +50,10 @@ body {
     text-align: center;
   }
 
+  .w3-sidebar {
+    scrollbar-width: thin;
+  }
+  
   .preview-img {
     width: 700px;
     height: 400px;
