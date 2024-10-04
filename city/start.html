@@ -3,11 +3,11 @@
     <link rel="stylesheet" href="../toggleOn.css" id="initial">
     <link rel="stylesheet" href="../toggleOff.css" disabled="disabled">
     <title>start</title>
-    
 </head>
 
 <body>
-    <div class="w3-sidebar w3-grey w3-bar-block" style="width:15%">
+    <div class="background-city"></div>
+    <div class="w3-sidebar w3-indigo w3-bar-block" style="width:15%">
         <button id="toggleWebps" class="w3-bar-item w3-button toggle">toggle webps
         </button>
         <a href="../info.html" class="w3-bar-item w3-button">info</a>
@@ -83,15 +83,23 @@
     <script src="../toggle.js"></script>
     <div style="margin-left:15%">
         <div class="webp"> 
-            <a href="./htmls/start1.html"><img title="the first room" class="preview" src="./webps/start1.webp" clickable='true'></a>         
-            <a href="./htmls/start2.html"><img title="room 2 cb" class="preview" src="./webps/start2.webp" clickable='true'></a>           
-            <a href="./htmls/start3.html"><img title="room 6 super" class="preview" src="./webps/start3.webp" clickable='true'></a> </div>
-        <div class="still"> 
-            <a href="./htmls/start1.html"><img title="the first room" class="preview-img" src="./stills/start1.jpg" clickable='true'></a>
-            <a href="./htmls/start2.html"><img title="room 2 cb" class="preview-img" src="./stills/start2.jpg" clickable='true'></a>
-            <a href="./htmls/start3.html"><img title="room 6 super"  class="preview-img" src="./stills/start3.jpg" clickable='true'></a>
+            <div class="column">
+            <a href="./htmls/start1.html"><img title="the first room" class="preview" src="./webps/start1.webp" clickable='true'></a> 
+            <a href="./htmls/start3.html"><img title="room 6 super" class="preview" src="./webps/start3.webp" clickable='true'></a>  
+            </div> 
+            <div class="column">     
+            <a href="./htmls/start2.html"><img title="room 2 cb" class="preview" src="./webps/start2.webp" clickable='true'></a>        
+            </div>   
         </div>
-    <p>click on a room to learn more!</p>
+        <div class="still"> 
+            <div class="column">
+            <a href="./htmls/start1.html"><img title="the first room" class="preview-img" src="./stills/start1.jpg" clickable='true'></a>
+            <a href="./htmls/start3.html"><img title="room 6 super"  class="preview-img" src="./stills/start3.jpg" clickable='true'></a>
+            </div>
+            <div class="column">
+            <a href="./htmls/start2.html"><img title="room 2 cb" class="preview-img" src="./stills/start2.jpg" clickable='true'></a>
+            </div>
+        </div>
     </div>
 </div>
 <script src="../map.js"></script>

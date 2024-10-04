@@ -8,6 +8,115 @@ body {
     color: #ffffff;
     font-family: GeistVF;
   }
+
+  .background-city {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url(city/stills/start1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: blur(15px);
+    z-index: -1;
+}
+
+.background-site {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(site/stills/start3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
+.background-resort {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(resort/stills/mess5.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
+.background-ridge {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(ridge/stills/start6.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
+.background-5a {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(templeA/stills/depths4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
+.background-5b {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(templeB/stills/mirror2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
+.background-6a {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(reflectionA/stills/tape3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
+.background-6b {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(reflectionB/stills/reprieve1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
+.background-summit {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(summit/stills/3000m8.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(15px);
+  z-index: -1;
+}
+
   h1 {
     color: #ffffff;
   }
@@ -18,17 +127,46 @@ body {
     color: #ffffff;
   }
 
-  .still {
-    display: block;
-  }
-
   .webp {
     display: none;
   }
+
+  .still {
+    display: flex;
+    flex-wrap: wrap;
+  }
   
-  .preview {
-    width: 700px;
-    height: 400px;
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 33%;
+    padding: 0 3px;
+  }
+  
+  .column img {
+    margin-top: 3px;
+    vertical-align: middle;
+  }
+
+  /* less than 5 images */
+  .column-2x2 {
+    flex: 50%;
+    padding: 0 3px;
+  }
+  .column-2x2 img {
+    margin-top: 3px;
+    vertical-align: middle;
+  }
+    
+  .preview-img:hover{
+    overflow:hidden;
+    transition: 0.30s;
+    scale: 1.10;
+   }
+    
+  .still .preview-img {
+    transition: 0.30s;
+    width: 100%;                   /* occupy 100% width of li container */
+    height: auto;
   }
 
   p {
@@ -53,11 +191,6 @@ body {
   .w3-sidebar {
     scrollbar-width: thin;
   }
-  
-  .preview-img {
-    width: 700px;
-    height: 400px;
-  }
 
   .w3-button {
     font-size: x-large;
@@ -67,15 +200,18 @@ body {
     font-size: large;
   }
 
+  .info-paragraph {
+    padding: 0 200px;
+  }
+  
   /* Add an active class to the active dropdown button */
   .active {
-    background-color: rgba(250, 180, 68, 0.933);
+    background-color: rgba(255, 255, 255, 0.366);
   }
 
   /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
   .dropdown-container {
     display: none;
-    background-color: rgba(179, 179, 179, 0.499);
+    background-color: rgba(255, 255, 255, 0.142);
   }
-  
   
