@@ -192,7 +192,7 @@ body {
   }
 
   .w3-sidebar {
-    scrollbar-width: thin;
+    scrollbar-width: thin; 
   }
   
   .toggle {
