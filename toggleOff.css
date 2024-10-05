@@ -169,6 +169,7 @@ body {
   }
 
   p {
+    padding: 0 50px;
     font-size: large;
     text-align: center;
   }
