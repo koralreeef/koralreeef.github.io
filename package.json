@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "browserify": "^17.0.1",
+    "osu-api-extended": "^3.0.11",
+    "osu-web.js": "^2.5.0"
+  }
+}
