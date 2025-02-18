@@ -8,9 +8,4 @@ idk why jekyll dating is farked up but this post will live here as long as its n
 
 this post is "made" on the 16th!
 
-update (3 minutes later): i had double quotes and then it ate shit like so:
-```
-i also wanted to ""practice"" typing long things
-```
-
-well played me
+i guess i need to take into account when i actually made the post, maybe some weirdness with deploying marks it as not the 17th?
