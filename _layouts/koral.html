@@ -1,0 +1,45 @@
+---
+layout: koral_layout
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+    
+  <div class="flex-parent-element">
+    <div class="flex-child-element">
+      <div class="big-text">
+        <img src="../../../assets/images/koralrBETS.png" margin="0 50%" width="57%">
+      <p><strong><a href="{{ "/feed.xml" | relative_url }}">rss</a>&nbsp; • &nbsp;<a href="nothin yet">video game history</a></strong></p>
+      <p><strong>github &ensp;&ensp;&emsp;&emsp;&emsp;<a href="https://github.com/koralreeef">koralreeef</strong></a></p>
+      <p><strong>speedrun.com &nbsp; <a href="https://www.speedrun.com/users/koralreef">koralreef</strong></a></p></p>
+      <p><strong>cue collection &ensp; <a href="https://koralreeef.github.io/info.html">info.html</strong></a></p></p>
+      <p><strong>more links &emsp;&emsp; <a href="https://koralreeef.github.io/main.html">main.html</strong></a></p>
+      </div>
+      {{ content }}
+    </div>
+    <div class="flex-child-element">
+      {%- if site.posts.size > 0 -%}
+      <h1 class="bigger-text"><strong>koral reef</strong></h1>
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+      {%- endif -%}
+    </div>
+  </div>
+</div>
