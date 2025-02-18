@@ -7,3 +7,10 @@ categories: jekyll update
 idk why jekyll dating is farked up but this post will live here as long as its not fixed (my first post was made on the 17th, not the 18th)
 
 this post is "made" on the 16th!
+
+update (3 minutes later): i had double quotes and then it ate shit like so:
+```
+i also wanted to ""practice"" typing long things
+```
+
+well played me
