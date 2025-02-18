@@ -1,10 +1,9 @@
 ---
-layout: page
-title: About
+layout: post
 permalink: /about/
 ---
+i am karl, he/him
 
-peeballs
+very lucky to be alive and an unemployed full stack dev
 
-
-[jekyll-organization]: https://github.com/jekyll
+i like to do a lot of things

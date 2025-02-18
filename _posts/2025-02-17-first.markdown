@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "my first post"
+date:   2025-02-17 18:22:00 -0800
+categories: jekyll update
+---
+# hello everyone!!
+
+i wanted to make this website as a way to future proof anything i do in the future, whether that be archiving touhou replays, publishing old osu map drafts that never saw the light of day, or even just having a nice little art gallery. 
+
+having a personal thought bubble on discord kinda felt meh when i could just make my own space with my own two bare hands. i also wanted to ""practice"" typing long things and get into writing about stuff that i love. ive noticed i lose my train of thought more than i would like, and my sentences sometimes even come out stuttered or jumbled. i dont know how thats even possible at the ripe young age of 23, but i would like to keep my speaking skills in check. well, at least enough to where i dont repeat the same 3 buzz words (looking at you, lowkey).
+
+one quick shoutout to [danboland](https://danboland.net/) of blue revolver fame! his website is mostly the reason why i started this way earlier than i wouldve. his page has soooo many good reads its crazy. i also shamelessly ripped off his format, even down to the jekyll style blog. if you see this dan, thank you.
+
+this blog will be a mixture of everything creative that i do and annoying fandom shit that i wont hold back on so if you like that, then bookmark this or somethin. if you DONT like that, then get out of here!!!
