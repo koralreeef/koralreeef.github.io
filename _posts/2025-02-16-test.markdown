@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "my zeroth post"
+date:   2025-02-16 15:07:11 -0800
+categories: jekyll update
+---
+idk why jekyll dating is farked up but this post will live here as long as its not fixed (my first post was made on the 17th, not the 18th)
+
+this post is "made" on the 16th!
