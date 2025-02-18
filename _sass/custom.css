@@ -1,7 +1,6 @@
----
----
-
-@import "{{ site.theme }}";
+/*
+MY CSS 
+*/
 .bigger-text {
     font-size: xx-large;
   }
@@ -12,12 +11,10 @@
   
   .flex-parent-element {
     display: flex;
-    //border: 2px solid blueviolet;
     min-width: 50%;
   }
   
   .flex-child-element {
-    //border: 2px solid rgb(56, 51, 61);
     flex: 1;
     min-width: 500px;
   }
