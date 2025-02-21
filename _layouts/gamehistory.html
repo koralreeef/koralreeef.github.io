@@ -1,0 +1,36 @@
+---
+layout: koral_layout
+---
+{% assign 1cc_posts = site.posts | where_exp: "post", "post.categories contains '1cc'" %}
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+    <p><a href="/">koral reef</a> > under construction</a></p>
+    a table of something here
+
+      <table id="test">
+        <tr>
+          <th>forum title</th>
+          <th>posts</th>
+          <th>latest post</th>
+        </tr>
+        <tr>
+          <td>speedrunning and game history</td>
+          <td>0</td>
+          <td>none</td>
+        </tr>
+        <tr>
+          <td>osu mapping drafts</td>
+          <td>0</td>
+          <td>none</td>
+        </tr>
+        <tr>
+          <td><a href="/1cchistory">stg 1cc list</a></td>
+          <td>{{ 1cc_posts.size }}</td>
+          {% for post in 1cc_posts | limit: 1 %}
+          <td>{{ post.game }} {{ post.shottype }} {{post.run_type }}</td>
+          {%- endfor -%}
+        </tr>
+      </table> 
+  </div>

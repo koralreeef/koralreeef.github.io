@@ -1,0 +1,33 @@
+---
+layout: koral_layout
+---
+{% assign 1cc_posts = site.posts | where_exp: "post", "post.categories contains '1cc'" %}
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+    <p><a href="/">koral reef</a> > <a href="/gamehistory.html">under construction</a> > stg 1cc history</p>
+    <p><strong>current goal: IN solo alice lnb</strong></p>
+    <p><i>look at these elegant replays!</i></p>
+      <table id="test">
+        <tr>
+          <th>game title</th>
+          <th>shot type</th>
+          <th>difficulty</th>
+          <th>date of completion</th>
+          <th>replay</th>
+        </tr>
+        {%- for post in 1cc_posts -%}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <tr class="{{ post.game }}">
+          <td><a href="{{ post.master_link }}">{{ post.title }}</a></td>
+          <td>{{ post.shottype }}</td>
+          <td>{{ post.run_type }}</td>
+          <td>{{ post.date | date: date_format }}</td>
+          <td><a href="{{ post.replay }}">rpy</td>
+        </tr>
+        </div>
+        {%- endfor -%}
+      </table> 
+      posts will be barren until i can figure out what i want it to look like
+  </div>

@@ -1,0 +1,36 @@
+---
+layout: koral_layout
+---
+{% assign art_posts = site.posts | where_exp: "post", "post.categories contains 'art'" %}
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+    
+  <div class="flex-parent-element">
+    <div class="flex-child-element">
+
+      <div class="big-text">
+        <img src="../../../assets/images/koralrBETS.png" margin="0 50%" width="57%">
+      <p><strong><a href="{{ "/feed.xml" | relative_url }}">rss</a>&nbsp; • &nbsp;<a href="/gamehistory.html">game history</a>
+        • &nbsp;<a href="/">blog</a></strong></p>
+      <p><strong>github &ensp;&ensp;&emsp;&emsp;&emsp;<a href="https://github.com/koralreeef">koralreeef</strong></a></p>
+      <p><strong>speedrun.com &nbsp; <a href="https://www.speedrun.com/users/koralreef">koralreef</strong></a></p></p>
+      <p><strong>cue collection &ensp; <a href="https://koralreeef.github.io/info.html">info.html</strong></a></p></p>
+      <p><strong>more links &emsp;&emsp; <a href="https://koralreeef.github.io/main.html">main.html</strong></a></p>
+      </div>
+      
+      {{ content }}
+    </div>
+    <div class="flex-child-element">
+      {%- if art_posts.size > 0 -%}
+      <h3>i use clip studio paint and a ctl-472</h3>
+      {% for post in art_posts %}
+        <a href="{{ post.url | relative_url }}">
+          {{post.excerpt}}
+        </a>
+      {%- endfor -%}
+      {%- endif -%}
+    </div>
+  </div>
+</div>
