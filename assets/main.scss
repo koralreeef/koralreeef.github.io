@@ -19,6 +19,12 @@ MY CSS
     //border: 2px solid blueviolet;
     min-width: 50%;
   }
+
+  .flex-parent-element {
+    display: flex;
+    //border: 2px solid blueviolet;
+    min-width: 50%;
+  }
   
   .flex-child-element {
     //border: 2px solid rgb(56, 51, 61);
@@ -29,3 +35,44 @@ MY CSS
   .flex-child-element:first-child {
     margin-left: 10px;
   }
+  
+  .img {
+    display: block;
+    object-position: center top;
+  }
+
+  #test tr:nth-child(even){background-color: #fee3ca;}
+  #test tr:nth-child(odd){background-color: #fbc799;}
+  #test tr:hover {background-color: #ff902f;}
+
+  .lolk td{
+    background-color: #ae65a6;
+  }
+  .eosd td{
+    background-color: #e26c6c;
+  }
+  .sa td{
+    background-color: #bc6a6a;
+  }
+  .in td{
+    background-color: #5fa7ff;
+  }
+  .pcb td{
+    background-color: #ffb1e5;
+  }
+  .mof td{
+    background-color: #5dd680;
+  }
+  .ufo td{
+    background-color: #62ffff;
+  }
+  .ddc td{
+    background-color: #ffed92;
+  }
+  .hsifs td{
+    background-color: #bda738;
+  }
+  .pofv td{
+    background-color: #f9ae35;
+  }
+  
