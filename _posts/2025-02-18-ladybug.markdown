@@ -3,6 +3,7 @@ layout: post
 title:  "i am really in love with miraculous ladybug: tales of ladybug and cat noir"
 date:   2025-02-18 19:52:11 -0800
 categories: jekyll update
+tags: blog
 ---
 even with its insanely inconsistent writing, less than stellar animation, and the fact that im not the target audience...
 

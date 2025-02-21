@@ -3,6 +3,7 @@ layout: post
 title:  "my worst critic"
 date:   2025-02-19 11:07:11 -0800
 categories: jekyll update
+tags: blog
 ---
 i love being at the dmv because
 now i can write about something
