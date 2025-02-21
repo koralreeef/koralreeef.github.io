@@ -1,0 +1,12 @@
+---
+layout: 1ccpost
+title:  "subterranean animism"
+game: sa
+date:   2024-09-13 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+shottype: mariB
+run_type: lnb 8m
+master_link: jekyll/update/2025/02/20/sa.html#mariB
+replay: ../../../../../assets/replays/th11_16.rpy
+---

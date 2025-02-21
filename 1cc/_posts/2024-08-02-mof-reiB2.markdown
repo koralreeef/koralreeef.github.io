@@ -1,0 +1,12 @@
+---
+layout: 1ccpost
+title:  "mountain of faith"
+game:   mof
+date:   2024-08-02 12:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+shottype: reiB
+run_type: lnb 8m
+master_link: jekyll/update/2025/02/20/mof.html#reiB
+replay: ../../../../../assets/replays/th10_12.rpy
+---

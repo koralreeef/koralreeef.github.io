@@ -1,0 +1,12 @@
+---
+layout: 1ccpost
+title:  "embodiment of scarlet devil"
+game: eosd
+date:   2024-04-19 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+shottype: reiB
+run_type: l1cc
+master_link: jekyll/update/2025/02/20/eosd.html#reiB
+replay: ../../../../../assets/replays/th6_12.rpy
+---

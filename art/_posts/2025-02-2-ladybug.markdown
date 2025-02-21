@@ -1,0 +1,14 @@
+---
+layout: artpost
+title:  "time to de-evilize"
+date:   2025-02-2 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+tags: art
+---
+<p align="center">
+    <img src="../../../../../../../assets/images/222025.png">
+</p>
+<!--end_excerpt-->
+study from the show, i liked this one a lot. 
+drawing the body when the perspective depicts it far away like that is always a challenge. good thing the hand and the face came out kinda awesome

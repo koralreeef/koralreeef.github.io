@@ -1,0 +1,19 @@
+---
+layout: artpost
+title:  "car phase"
+date:   2025-02-15 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+tags: art
+---
+<p align="center">
+    <img src="../../../../../../../assets/images/2112025.png">
+</p>
+<!--end_excerpt-->
+a true deep dive into drawing cars
+
+heavily influenced by evilstaplers, they make everything they draw so fucking cool its crazy
+<p align="center">
+    <img src="../../../../../../../assets/images/292025.png">
+</p>
+cat noir sliding across the car was quite tough to draw we'll nt this one

@@ -1,0 +1,12 @@
+---
+layout: 1ccpost
+title:  "imperishable night"
+game: in
+date:   2024-03-01 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+shottype: border team
+run_type: l1cc
+master_link: jekyll/update/2025/02/20/in.html#border-team
+replay: ../../../../../assets/replays/th8_13.rpy
+---

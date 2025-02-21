@@ -1,0 +1,12 @@
+---
+layout: 1ccpost
+title:  "double dealing character"
+game:   ddc
+date:   2024-06-25 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+shottype: sakuyaB
+run_type: n1cc
+master_link: jekyll/update/2025/02/20/ddc.html#sakuyaB
+replay: ../../../../../assets/replays/th14_25.rpy
+---

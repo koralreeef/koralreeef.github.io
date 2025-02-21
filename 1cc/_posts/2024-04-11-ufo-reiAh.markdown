@@ -1,0 +1,12 @@
+---
+layout: 1ccpost
+title:  "undefined fantastic object"
+game:   ufo
+date:   2024-04-11 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+shottype: reiA
+run_type: h1cc
+master_link: jekyll/update/2025/02/20/ufo.html#reiA
+replay: ../../../../../assets/replays/th12_25.rpy
+---
