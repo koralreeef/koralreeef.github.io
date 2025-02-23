@@ -1,0 +1,15 @@
+---
+layout: artpost
+title:  "car phase 2"
+date:   2025-02-21 15:48:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+tags: art
+---
+<p align="center">
+    <img src="../../../../../../../assets/images/2212025.png">
+</p>
+<!--end_excerpt-->
+one of those where i wasnt happy with the end result for the whole time lol, so difficult to depict movement in these types of facing shots
+
+her jaw is not quite there but ill just try again with this pose later
