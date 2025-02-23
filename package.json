@@ -6,6 +6,6 @@
     "osu-web.js": "^2.5.0"
   },
   "scripts":{
-    "start": "bundle exec jekyll serve"
+    "start": "bundle exec jekyll serve --drafts"
   }
 }
