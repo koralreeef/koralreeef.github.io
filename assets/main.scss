@@ -20,20 +20,14 @@ MY CSS
     min-width: 50%;
   }
 
-  .flex-parent-element {
-    display: flex;
-    //border: 2px solid blueviolet;
-    min-width: 50%;
-  }
-  
   .flex-child-element {
     //border: 2px solid rgb(56, 51, 61);
     flex: 1;
-    min-width: 50%;
+    min-width: 40%;
   }
   
   .flex-child-element:first-child {
-    margin-left: 10px;
+    margin-right: 10px;
   }
   
   .img {
@@ -44,6 +38,21 @@ MY CSS
   #test tr:nth-child(even){background-color: #fee3ca;}
   #test tr:nth-child(odd){background-color: #fbc799;}
   #test tr:hover {background-color: #ff902f;}
+  a:link {
+    color: rgb(30, 99, 218);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(192, 141, 251);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: rgb(255, 183, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
 
   .lolk td{
     background-color: #ae65a6;
