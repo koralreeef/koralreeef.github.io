@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "happy birthday to 45:34, you crazy bastard"
+date:   2025-02-27 14:25:11 -0800
+categories: jekyll update
+tags: blog
+---
+
+<p align="center">
+    <img src="../../../../../../../assets/images/4534.png">
+</p>
+
+cant believe its been three years since i pulled off my [best speedrun ever...](https://www.youtube.com/watch?v=HQAXqbNZjV8) its somewhat of a miracle that the run even happened in the first place tbh. i had like 4 hours of sleep before waking up at like 11pm, i didnt eat, and i was feeling quite moody overall since at this point the grind had been going for like 5-6 months. i probably wont ever forget how i felt during core, just no nerves stone cold like i knew i already had the run in the bag after hitting the hard strat for berry 174. my nerve control is usually terrible but it was just unbelivable how i didnt die of a heart attack. probably the only time i can really say i was in that "flow state". the celebration was crazy though i cant believe i was saying arb was dead. like 6 months later or something i get smacked in the back of my head with like a minute of new stuff from bubs and ruyu and then less than 2 years later isaac drops a 44 on my freaking skull!! shoutouts to those guys for pushing the category more because my ass was out the front door immediately lmao
+
+wish i couldve gotten the top 1 any%/arb combo but i chose the minute barrier instead of chasing any%. honestly i think any% wouldve been cooler but i dont think i wouldve pushed any fullgame run as hard as i did otherwise. it taught me a lot about my absolute mental limit regarding a single goal and what i could handle before i just hit a wall and give up. it was crazy how i just felt more relief than happiness when i finally got it. feels like it should be the other way around right? its probably why im more careful about going for super crazy shit in video games nowadays (defined by a timeframe of months of practice/dedication). touhou is probably the closest thing ive been playing to having lofty goals like 45 arb. maybe ill get baited into playing for an LNN[^1] in the near future who knows
+
+one things for sure, i dont think this unintentional death count is ever getting beaten lol. fucking 9 deaths ridiculous
+
+[^1]: Lunatic No Miss No Bomb: basically perfecting a touhou game on the highest difficulty (very fucking hard)
