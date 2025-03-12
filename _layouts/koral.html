@@ -7,10 +7,8 @@ layout: koral_layout
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-    
   <div class="flex-parent-element">
     <div class="flex-child-element">
-
       <div class="big-text">
         <img src="../../../assets/images/koralrBETS.png" margin="0 50%" width="57%">
       <p><strong><a href="{{ "/feed.xml" | relative_url }}">rss</a>&nbsp; • &nbsp;<a href="/gamehistory.html">game history</a>
@@ -31,7 +29,7 @@ layout: koral_layout
         </a>
       {%- endfor -%}
       {%- endif -%}
-
+      <strong><a href="#bottom">jump to bottom</a></strong>
       <h1 class="bigger-text"><strong>koral reef</strong></h1>
       {%- if blog_posts.size > 0 -%}
       <ul class="post-list">
@@ -53,4 +51,8 @@ layout: koral_layout
       {%- endif -%}
     </div>
   </div>
+  <p id="bottom" align="center">
+    <a href="#top">time to go back up</a>
+  </p>
 </div>
+

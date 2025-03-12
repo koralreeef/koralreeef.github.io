@@ -29,7 +29,7 @@ layout: koral_layout
           <td><a href="/1cchistory">stg 1cc list</a></td>
           <td>{{ 1cc_posts.size }}</td>
           {% for post in 1cc_posts | limit: 1 %}
-          <td>{{ post.game }} {{ post.shottype }} {{post.run_type }}</td>
+          <td><a href={{ post.master_link }}>{{ post.game }} {{ post.shottype }} {{post.run_type }}</a></td>
           {%- endfor -%}
         </tr>
       </table> 

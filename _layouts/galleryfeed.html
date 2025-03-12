@@ -23,6 +23,7 @@ layout: koral_layout
       {{ content }}
     </div>
     <div class="flex-child-element">
+      <strong><a href="#bottom">jump to bottom</a></strong>
       {%- if art_posts.size > 0 -%}
       <h3>i use clip studio paint and a ctl-472</h3>
       {% for post in art_posts %}
@@ -33,4 +34,7 @@ layout: koral_layout
       {%- endif -%}
     </div>
   </div>
+  <p id="bottom" align="center">
+    <a href="#top">time to go back up</a>
+  </p>
 </div>
