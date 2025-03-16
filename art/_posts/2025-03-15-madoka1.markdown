@@ -1,7 +1,7 @@
 ---
 layout: artpost
 title:  "homura akemi"
-date:   2025-03-15 23:04:11 -0800
+date:   2025-03-15 23:04:11 -0700
 categories: jekyll update 
 excerpt_separator: <!--end_excerpt-->
 tags: art
