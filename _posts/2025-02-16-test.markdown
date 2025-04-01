@@ -12,3 +12,5 @@ this post is "made" on the 16th!
 i guess i need to take into account when i actually made the post, maybe some weirdness with deploying marks it as not the 17th?
 
 update (2/18/25) ok hopefully me actually giving a timezone in the config file fixes this. i guess denoting the timezone in the front headers wasnt enough?
+
+test commit on phone to see if i need my laptop or not
