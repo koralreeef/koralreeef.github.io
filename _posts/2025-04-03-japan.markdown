@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "japan log, april 3rd to april 16th"
-date:   2025-04-3 21:33:11 -0800
+date:   2025-04-03 21:33:11 -0800
 categories: jekyll update
 tags: blog
 ---
