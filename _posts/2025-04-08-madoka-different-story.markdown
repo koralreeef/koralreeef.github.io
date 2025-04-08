@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "puella magi madoka magica: ~the different story~ (2014)
+title: puella magi madoka magica: ~the different story~ (2014)
 date: 2025-04-08 11:11:00 +0900
 categories: jekyll update
 tags: blog
