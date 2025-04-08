@@ -1,12 +1,12 @@
 ---
 layout: post
-title: puella magi madoka magica: ~the different story~ (2014)
+title: puella magi madoka magica ~the different story~ (2014)
 date: 2025-04-08 11:11:00 +0900
 categories: jekyll update
 tags: blog
 ---
- "i'm sorry miki-san. i really can't be called a hero anymore."
 
+ "i'm sorry miki-san. i really can't be called a hero anymore."
 
 ## volume 1
 so this is a spinoff manga from the same guys who did the original manga based off the anime. its told from the perspective of mami and sorta follows the anime timeline except mami lives when she saves sayaka and madoka instead of dies it should be epic
