@@ -1,7 +1,7 @@
 ---
 layout: artpost
 title:  "scott's birthday present"
-date:   2025-06-12 18:12:11 -0800
+date:   2025-06-13 02:12:11 -0800
 categories: jekyll update 
 excerpt_separator: <!--end_excerpt-->
 tags: art
@@ -13,4 +13,4 @@ tags: art
 
 happy birthday scott
 
-most of my thoughts on these drawings come from the blog post [here](https://koralreeef.github.io/jekyll/update/2025/06/16/ideas.html)
+most of my thoughts on these drawings come from the blog post [here](https://koralreeef.github.io/jekyll/update/2025/06/15/ideas.html)
