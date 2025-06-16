@@ -1,0 +1,16 @@
+---
+layout: artpost
+title:  "scott's birthday present"
+date:   2025-06-12 18:12:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+tags: art
+---
+<p align="center">
+    <img src="../../../../../../../assets/images/scott2025.jpg">
+</p>
+<!--end_excerpt-->
+
+happy birthday scott
+
+most of my thoughts on these drawings come from the blog post [here](https://koralreeef.github.io/jekyll/update/2025/06/16/ideas.html)
