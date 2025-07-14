@@ -11,7 +11,7 @@ shoutouts john for putting me on this one; this is my second anime directed by w
 
 <p align="center">
     <small><small>like imagine this with the ost in your ear would it not be 10000x better</small></small>
-    <img src="../../../../../../../assets/images/kidsonslope.png">
+    <img src="../../../../../../../assets/images/slope.png">
 </p>
 
 
