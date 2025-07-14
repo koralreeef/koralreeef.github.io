@@ -30,9 +30,9 @@ i put off this write up for a lil because half of it was procrasination (shoutou
 
 [^3]: [i wish she sang this in the anime](https://www.youtube.com/watch?v=gDzi8N3BYMw)
 
-[^4]: [idk why this doesn't play in the show](www.youtube.com/watch?v=XwnyPw2TCuU) but [i think this one does though](www.youtube.com/watch?v=XwnyPw2TCuU)
+[^4]: [idk why this doesn't play in the show](https://www.youtube.com/watch?v=XwnyPw2TCuU) but [i think this one does though](https://www.youtube.com/watch?v=JqBVzWuR_GA)
 
-[^5]: [JUN KILLS A MOFO](www.youtube.com/watch?v=XwnyPw2TCuU)
+[^5]: [JUN KILLS A MOFO](https://www.youtube.com/watch?v=cTN6WeO0oIs)
 
-[^6]: [someday my prince will come](www.youtube.com/watch?v=XwnyPw2TCuU)
+[^6]: [someday my prince will come](https://www.youtube.com/watch?v=viwUgMVr2G0)
 
