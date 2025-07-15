@@ -21,7 +21,7 @@ when it comes to the actual music this anime might have one of the best osts of 
 
 i put off this write up for a lil because half of it was procrasination (shoutouts to this one almost falling into the idea graveyard) and half of it was because i wanted it to sit for a bit. im kinda bad at digesting media so when i found this and instantly loved it, i wanted to let it sit to see if i truly liked it or not. the love hexagon and the kinda rushed anime ending stopped me from giving this higher than a 9, but i think it deserves all the praise when all of its parts moved me so much that it made me start playing piano again. maybe i can also appreciate this upward slope of life just a bit more.
 
- top picks that arent prominent tracks: [nichijo3](https://www.youtube.com/watch?v=MR71OJFp1yc), [kumori](www.youtube.com/watch?v=XwnyPw2TCuU), [hope](www.youtube.com/watch?v=XwnyPw2TCuU), [Run](www.youtube.com/watch?v=XwnyPw2TCuU)
+ top picks that arent prominent tracks: [nichijo3](https://www.youtube.com/watch?v=MR71OJFp1yc), [kumori](https://www.youtube.com/watch?v=jl3m7Pp_NHw), [hope](https://www.youtube.com/watch?v=LHWRHoylddk), [Run](https://www.youtube.com/watch?v=SBQCT3gXBl4)
 
 
 [^1]: yes the love square is no comms and lowkey kinda ass but WHATEVER
