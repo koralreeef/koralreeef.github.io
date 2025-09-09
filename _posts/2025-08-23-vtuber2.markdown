@@ -1,7 +1,7 @@
 ---
 layout: post
-title: test2
-date: 2025-09-01 00:02:00 -800
+title: marimari_en, the goat
+date: 2025-08-23 15:02:00 -800
 categories: jekyll update
 tags: blog
 ---
