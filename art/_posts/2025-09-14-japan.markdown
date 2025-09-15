@@ -7,7 +7,7 @@ excerpt_separator: <!--end_excerpt-->
 tags: art
 ---
 <p align="center">
-    <img src="../../../../../../../assets/images/IMG_6701.jpg">
+    <img src="../../../../../../../assets/images/IMG_6702.jpg">
 </p>
 <!--end_excerpt-->
 
@@ -41,7 +41,7 @@ madoka magica: the different story
 </p>
 
 <p align="center">
-    <img src="../../../../../../../assets/images/IMG_6702.jpg">
+    <img src="../../../../../../../assets/images/IMG_6701.jpg">
 </p>
 
 <p align="center">
