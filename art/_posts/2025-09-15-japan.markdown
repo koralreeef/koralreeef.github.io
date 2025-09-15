@@ -1,7 +1,7 @@
 ---
 layout: artpost
 title:  "japan sketches"
-date:   2025-09-15 10:12:11 -0800
+date:   2025-09-15 03:12:11 -0600
 categories: jekyll update 
 excerpt_separator: <!--end_excerpt-->
 tags: art
