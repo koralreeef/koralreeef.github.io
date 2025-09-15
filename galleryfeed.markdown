@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: galleryfeed
 ---
-personal website; under construction!!
+software dev living in south dakota
+i play a lot of video games
 
-im happy you made it here
-
-<sub><sup><sub><sup>art by [ruby](https://twitter.com/lieuhan)</sup></sub></sup></sub>
+<sub><sup><sub><sup>art by ruby</sup></sub></sup></sub>

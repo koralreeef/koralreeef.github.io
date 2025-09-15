@@ -1,0 +1,70 @@
+---
+layout: artpost
+title:  "scott's birthday present"
+date:   2025-09-15 10:12:11 -0800
+categories: jekyll update 
+excerpt_separator: <!--end_excerpt-->
+tags: art
+---
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6701.jpg">
+</p>
+<!--end_excerpt-->
+
+i forgot to upload these before moving but i kept my sketchbook anyways so here they are 5 months later in their scuffed glory
+i dont like a lot of these but theres some gems in here, i got humbled after drawing digitally for a year or so
+
+all references: 
+sfo airport
+blue box
+kaguya-sama love is war
+bloom into you
+madoka magica: the different story
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6698.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6699.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6700.png">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6702.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6703.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6704.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6705.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6706.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6707.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6708.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6709.jpg">
+</p>
+
+<p align="center">
+    <img src="../../../../../../../assets/images/IMG_6710.jpg">
+</p>
