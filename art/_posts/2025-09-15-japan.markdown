@@ -1,6 +1,6 @@
 ---
 layout: artpost
-title:  "scott's birthday present"
+title:  "japan sketches"
 date:   2025-09-15 10:12:11 -0800
 categories: jekyll update 
 excerpt_separator: <!--end_excerpt-->
