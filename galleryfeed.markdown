@@ -4,6 +4,7 @@
 layout: galleryfeed
 ---
 software dev living in south dakota
+
 i play a lot of video games
 
 <sub><sup><sub><sup>art by ruby</sup></sub></sup></sub>
