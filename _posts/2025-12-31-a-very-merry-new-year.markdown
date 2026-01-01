@@ -14,6 +14,8 @@ ill just say im so eternally grateful for everything that's happened, truly.
 prepared to go 10000% on whatever i put my mind to (future apologies to hobbies and things that i drop along the way)
 thank you everyone!
 
+
+
 good:
 
 JOB AND MOTION AND MOVED OUT WTF!!!!! (SHOUTOUTS THE NATION) (SHOUTOUTS SEAN)
@@ -55,6 +57,7 @@ i read a book (norweigan wood)
 i resurrected my piano playing (epic reveal i bought a keyboard for my apartment)
 
 
+
 could be better:
 
 my attention span has noticeably worsened
@@ -87,15 +90,15 @@ car?
 
 i now have space for a small picture section here, didnt really smile until september onwards but i like myself in these
 
-<p align="center">
-    <img src="../../../../../assets/images/IMG_1924.jpg" width="57%"> 
-    <img src="../../../../../assets/images/IMG_1971.jpg" width="57%">
-    <img src="../../../../../assets/images/IMG_6368.jpg" width="57%">
+<p block align="center">
+    <img src="../../../../../assets/images/IMG_1924.jpg" width="57%" style="display: block"> 
+    <img src="../../../../../assets/images/IMG_1971.jpg" width="57%" style="display: block">
+    <img src="../../../../../assets/images/IMG_6368.jpg" width="57%" style="display: block">
 </p>
 
 <p align="center">
-    <img src="../../../../../assets/images/IMG_6964.jpg" width="57%">
-    <img src="../../../../../assets/images/IMG_7044.jpg" width="57%">
+    <img src="../../../../../assets/images/IMG_6964.jpg" width="57%" style="display: block">
+    <img src="../../../../../assets/images/IMG_7044.jpg" width="57%" style="display: block">
 </p>
 
 
