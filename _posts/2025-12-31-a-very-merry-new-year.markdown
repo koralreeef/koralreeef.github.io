@@ -90,12 +90,12 @@ car?
 
 i now have space for a small picture section here, didnt really smile until september onwards but i like myself in these
 
-<div>
-    <img src="../../../../../assets/images/IMG_1924.jpg" width="50%" style="display: block"> 
-    <img src="../../../../../assets/images/IMG_1971.jpg" width="50%" style="display: block">
-    <img src="../../../../../assets/images/IMG_6368.jpg" width="50%" style="display: block">
-    <img src="../../../../../assets/images/IMG_6964.jpg" width="50%" style="display: block">
-</div>
+<p>
+    <img src="../../../../../assets/images/IMG_1924.jpg" width="50%"> 
+    <img src="../../../../../assets/images/IMG_1971.jpg" width="50%">
+    <img src="../../../../../assets/images/IMG_6368.jpg" width="50%">
+    <img src="../../../../../assets/images/IMG_6964.jpg" width="50%">
+</p>
 
 <p align="center">
     <img src="../../../../../assets/images/IMG_7044.jpg" width="20%" style="display: block">
