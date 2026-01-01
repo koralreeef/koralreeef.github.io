@@ -101,5 +101,6 @@ i now have space for a small picture section here, didnt really smile until sept
     <img src="../../../../../assets/images/IMG_7044.jpg" width="20%" style="display: block">
 </p>
 
+<sub><sup>lets make some memories</sub></sup>
 
 [^1]: [ajay put me on this album is so fun](https://www.youtube.com/watch?v=bZBnkN81Z84)
