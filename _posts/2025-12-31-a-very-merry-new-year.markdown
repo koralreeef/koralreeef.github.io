@@ -92,15 +92,17 @@ i now have space for a small picture section here, didnt really smile until sept
 
 <p>
     <img src="../../../../../assets/images/IMG_1924.jpg" width="50%"> 
-    <img src="../../../../../assets/images/IMG_1971.jpg" width="50%">
+    <img src="../../../../../assets/images/IMG_1971.jpg" width="50%" style="float: right">
     <img src="../../../../../assets/images/IMG_6368.jpg" width="50%">
-    <img src="../../../../../assets/images/IMG_6964.jpg" width="50%">
+    <img src="../../../../../assets/images/IMG_6964.jpg" width="50%" style="float: right">
 </p>
 
 <p align="center">
     <img src="../../../../../assets/images/IMG_7044.jpg" width="20%" style="display: block">
 </p>
 
-<sub><sup>lets make some memories</sub></sup>
+<p align="center">
+<sub><sup>lets make some memories</sup></sub>
+</p>
 
 [^1]: [ajay put me on this album is so fun](https://www.youtube.com/watch?v=bZBnkN81Z84)
