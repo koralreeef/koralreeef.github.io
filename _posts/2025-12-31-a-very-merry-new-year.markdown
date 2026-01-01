@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a very merry new year
-date: 2025-12-31 20:50:00 -800
+date: 2025-12-31 10:50:00 -600
 categories: jekyll update
 tags: blog
 ---
