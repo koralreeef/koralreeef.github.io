@@ -5,7 +5,7 @@ date: 2025-12-31 10:50:00 -600
 categories: jekyll update
 tags: blog
 ---
-now playing: slayr - The Sky[^1]
+now playing: slayr - The Sky
 
 omg hi
 
