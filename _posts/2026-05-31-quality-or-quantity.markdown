@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "i love my hobbies. i never engage with them"
-date: 2026-05-31 23:50:00 -600
+date: 2026-05-31 12:50:00 -600
 categories: jekyll update
 tags: blog
 ---
