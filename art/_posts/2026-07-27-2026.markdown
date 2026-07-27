@@ -1,7 +1,7 @@
 ---
 layout: artpost
 title:  "july"
-date:   2025-07-27 01:00:00 -0600
+date:   2026-07-27 01:00:00 -0600
 categories: jekyll update 
 excerpt_separator: <!--end_excerpt-->
 tags: art
@@ -23,5 +23,5 @@ ill have a seperate post for this work notepad ive been filling out, eta end of 
 </p>
 
 <p align="center">
-    <img src="../../../../../../../assets/images/7262026.png">
+    <img src="../../../../../../../assets/images/7262026.jpg">
 </p>
